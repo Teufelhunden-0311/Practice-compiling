@@ -1,0 +1,8 @@
+# Build artifacts - regenerated, never hand-edited
+*.o
+*.i
+*.s
+*.a
+*.so
+*.so.*
+hello
